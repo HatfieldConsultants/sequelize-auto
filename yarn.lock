@@ -2064,32 +2064,9 @@ semver@4.3.2:
   version "4.3.2"
   resolved "https://registry.yarnpkg.com/semver/-/semver-4.3.2.tgz#c7a07158a80bedd052355b770d82d6640f803be7"
 
-sequelize@RayneHwang/sequelize:
-  version "0.0.0-development"
-  resolved "https://codeload.github.com/RayneHwang/sequelize/tar.gz/5411ace1e4bcb54d45f50e4cafbbcc6777258fff"
-  dependencies:
-    bluebird "^3.4.6"
-    cls-bluebird "^2.0.1"
-    debug "^2.3.0"
-    depd "^1.1.0"
-    dottie "^2.0.0"
-    env-cmd "^5.0.0"
-    generic-pool "^3.1.6"
-    inflection "1.10.0"
-    lodash "^4.17.1"
-    moment "^2.13.0"
-    moment-timezone "^0.5.4"
-    retry-as-promised "^2.0.0"
-    semver "^5.0.1"
-    terraformer-wkt-parser "^1.1.2"
-    toposort-class "^1.0.1"
-    uuid "^3.0.0"
-    validator "^6.3.0"
-    wkx "^0.4.1"
-
 sequelize@asoltys/sequelize:
-  version "0.0.0-development"
-  resolved "https://codeload.github.com/asoltys/sequelize/tar.gz/61bc78fcae22df9262f53f4a643baceb3ee7a22a"
+  version "0.0.0-asoltys-development"
+  resolved "https://codeload.github.com/asoltys/sequelize/tar.gz/f00d826b7c84804821d2df4a994d23bb90305add"
   dependencies:
     bluebird "^3.4.6"
     cls-bluebird "^2.0.1"
